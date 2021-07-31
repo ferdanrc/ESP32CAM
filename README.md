@@ -1,7 +1,9 @@
 # ESP32CAM
+
  Repositorio para los programas en los que se utiliza el ESP32 en el curso. 
  
-###Requisitos
+### Requisitos
+
  - ESP32 CAM con la cámara colocada
  - Módulo FTDI
 
@@ -31,7 +33,8 @@
 Adicionalmente
  - Instalar libreria PubSubClient en IDE Arduino (para protocolo MQTT)
 
-###Guias
+### Guias
+
 Drivers FTDI: https://edu.codigoiot.com/course/view.php?id=850
 
 IDE de Arduino y ESP32: https://edu.codigoiot.com/course/view.php?id=850
@@ -53,7 +56,7 @@ https://github.com/codigo-iot/ESP32CAM-WiFi-Basic
 
 https://github.com/codigo-iot/ESP32CAM_MQTT-Basic
 
-###Funcionamiento
+### Funcionamiento
 
 27-julio-2021: EjCameraWebServer: Habilita la camara del ESP32 para que sea visible en una red
 
