@@ -2,7 +2,7 @@
 
  Repositorio para los programas en los que se utiliza el ESP32 en el curso. 
  
--
+----------------------------------------------------------------------------------------------------
 
 ### Requisitos
 
@@ -37,7 +37,7 @@ Adicionalmente
 Revisar
  - La direccion del broker a usar, tanto en el programa de Arduino como en NodeRed. 
 
--
+----------------------------------------------------------------------------------------------------
 
 ### Guias
 
@@ -63,7 +63,7 @@ https://github.com/codigo-iot/ESP32CAM-WiFi-Basic
 
 https://github.com/codigo-iot/ESP32CAM_MQTT-Basic
 
--
+----------------------------------------------------------------------------------------------------
 
 ### Funcionamiento
 
@@ -84,7 +84,7 @@ const char* ssid = "**"; // Aquí debes poner el nombre de tu red
 
 const char* password = "**"; // Aquí debes poner la contraseña de tu red
 
--
+----------------------------------------------------------------------------------------------------
 
 ### Notas adicionales
 
