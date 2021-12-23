@@ -75,6 +75,7 @@ https://github.com/codigo-iot/ESP32CAM_MQTT-Basic
 
 5-agosto-2021: ESP32CAM_MQTT-Temperatura: Envía mediciones de temperatura y humedad con el ESP32 utilizando el protocolo MQTT. 
 
+Cada progama tiene como anexo fotos del circuito armado y un video que muestra su funcionamiento
 
 *** IMPORTANTE ***
 
